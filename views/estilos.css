@@ -46,11 +46,23 @@ table{
     background: linear-gradient(90deg, rgb(220 219 224) 0%, rgb(236, 236, 240) 35%, rgb(244, 246, 246) 100%);
     margin-top: auto;
 }
-
+/* 
 table, th, td{
     border-collapse: collapse;
-}
+} */
 
 .bandera{
     width: 50px;
 }
+
+.pilotos{
+    color: white;
+    width: 80px;
+    margin: 10px;
+}
+
+.posicion{
+    text-align: center;
+    color:yellow;
+}
+
